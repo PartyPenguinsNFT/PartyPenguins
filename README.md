@@ -1,5 +1,5 @@
 # PartyPenguins
-The code repository for the coolest NFT project
+The code repository for the coolest party in the NFT space
 
 [partypenguins.club](https://partypenguins.club)
 <br>
